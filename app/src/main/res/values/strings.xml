@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TinySteps</string>
+    <string name="hint_buscador">Buscar en Tiny Steps...</string>
+    <string name="filtro_talla_4">4 Años</string>
+    <string name="filtro_nino">Niño</string>
+    <string name="filtro_pijamas">Pijamas</string>
+</resources>

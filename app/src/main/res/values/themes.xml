@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.TinySteps" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorSurface">@color/color_surface</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorOnSurfaceVariant">@color/text_secondary</item>
+        <item name="colorOutlineVariant">@color/color_outline</item>
+    </style>
+
+    <style name="Theme.TinySteps" parent="Base.Theme.TinySteps" />
+</resources>
